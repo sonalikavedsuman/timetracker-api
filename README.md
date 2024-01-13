@@ -1,4 +1,4 @@
 ## Migration Steps
 
--- Add-Migration InitialDatabase
--- Update-Database
+* Add-Migration InitialDatabase
+* Update-Database
